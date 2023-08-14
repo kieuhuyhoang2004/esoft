@@ -1,0 +1,8 @@
+D:\Bài của thầy đông\Bài của thầy đông\bin\Debug\Bài của thầy đông.exe.config
+D:\Bài của thầy đông\Bài của thầy đông\bin\Debug\Bài của thầy đông.exe
+D:\Bài của thầy đông\Bài của thầy đông\bin\Debug\Bài của thầy đông.pdb
+D:\Bài của thầy đông\Bài của thầy đông\obj\Debug\Bài của thầy đông.csproj.AssemblyReference.cache
+D:\Bài của thầy đông\Bài của thầy đông\obj\Debug\Bài của thầy đông.csproj.SuggestedBindingRedirects.cache
+D:\Bài của thầy đông\Bài của thầy đông\obj\Debug\Bài của thầy đông.csproj.CoreCompileInputs.cache
+D:\Bài của thầy đông\Bài của thầy đông\obj\Debug\Bài của thầy đông.exe
+D:\Bài của thầy đông\Bài của thầy đông\obj\Debug\Bài của thầy đông.pdb
