@@ -1,0 +1,12 @@
+E:\programming-listviewdemo-main\ListView-Demo\bin\Debug\ListView-Demo.exe.config
+E:\programming-listviewdemo-main\ListView-Demo\bin\Debug\ListView-Demo.exe
+E:\programming-listviewdemo-main\ListView-Demo\bin\Debug\ListView-Demo.pdb
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\Hoàng SE06201.csproj.AssemblyReference.cache
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\Hoàng SE06201.csproj.SuggestedBindingRedirects.cache
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\ListView_Demo.Form1.resources
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\ListView_Demo.Properties.Resources.resources
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\ListView_Demo.UserInputForm.resources
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\Hoàng SE06201.csproj.GenerateResource.cache
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\Hoàng SE06201.csproj.CoreCompileInputs.cache
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\ListView-Demo.exe
+E:\programming-listviewdemo-main\ListView-Demo\obj\Debug\ListView-Demo.pdb
