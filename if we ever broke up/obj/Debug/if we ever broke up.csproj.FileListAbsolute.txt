@@ -1,0 +1,11 @@
+D:\if we ever broke up\if we ever broke up\bin\Debug\if we ever broke up.exe.config
+D:\if we ever broke up\if we ever broke up\bin\Debug\if we ever broke up.exe
+D:\if we ever broke up\if we ever broke up\bin\Debug\if we ever broke up.pdb
+D:\if we ever broke up\if we ever broke up\obj\Debug\if we ever broke up.csproj.AssemblyReference.cache
+D:\if we ever broke up\if we ever broke up\obj\Debug\if we ever broke up.csproj.SuggestedBindingRedirects.cache
+D:\if we ever broke up\if we ever broke up\obj\Debug\if_we_ever_broke_up.Form1.resources
+D:\if we ever broke up\if we ever broke up\obj\Debug\if_we_ever_broke_up.Properties.Resources.resources
+D:\if we ever broke up\if we ever broke up\obj\Debug\if we ever broke up.csproj.GenerateResource.cache
+D:\if we ever broke up\if we ever broke up\obj\Debug\if we ever broke up.csproj.CoreCompileInputs.cache
+D:\if we ever broke up\if we ever broke up\obj\Debug\if we ever broke up.exe
+D:\if we ever broke up\if we ever broke up\obj\Debug\if we ever broke up.pdb
